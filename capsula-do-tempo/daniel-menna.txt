@@ -1,0 +1,4 @@
+Fala aí Daniel, hoje é dia 11/07, uma segunda-feira a noite, onde você está tomando um suador para aprender Git e configurar o meu terminal.
+Espero que, em pouco tempo, já esteja desenvolvendo aplicações web que tornem possível a minha migração de carreira para a área de desenvolvimento. Hoje, ainda não sei exatamente se irei para ficar só no back-end ou se atuarei como Full Stack.
+Isso é uma tentativa de mudança na miinha vida para que eu possa ter uma qualidade de vida melhor e que eu me sinta mais motivad para acordar todo dia e colocar a mão em código.
+Vamos ver o que vai dar!
