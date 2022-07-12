@@ -1,0 +1,4 @@
+# Minha Bio - Bruno Silva 
+**Olá me chamo Bruno tenho 26 anos, sou residente de Fortaleza-CE** 
+_Vou falar um pouco sobre meu sonho, que é ser programador, desde pequeno tenho uma certa afinidade com tecnologia e gastronomia, são as duas áreas que sempre me chamaram atenção, então tô tentando seguir meu sonho, estudando e me dedicando o máximo que consigo_
+_Me considero uma pessoa atenciosa, as vezes simpático e bem dedicado no que faço, nasci e cresci em Fortaleza, meus pais são maravilhosos e sempre fizeram tudo o que podiam por mim, seja me auxiliando com os estudos e qualquer outra necessidade que eu tivesse, não foi um caminho fácil até aqui, passei por maus bocados, tive problemas de ansiedade e depressão, mas me cuidei e hoje estou bem melhor, tentando correr atrás do tempo que perdi, que não foi tão perdido assim, as coisas acontecem como tem que ser, bom isso é um pouco sobre mim, até breve._
