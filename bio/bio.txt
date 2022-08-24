@@ -1,4 +1,12 @@
 Nome: Luiz Henrique;
 Cidade: Curitiba;
-Nascimento: 06/09/1978 (senhor de idade)
+Nascimento: 06/09/1978 (senhor de idade);
 Profissão: ninja;
+
+-------------------
+
+Container: Javelin jk2;
+Main Canopy: Performance Designs - Pulse 170;
+Reserve canopy: Performance Dessigns - Optimum 176;
+AAD: cypres-2 Charlie
+
