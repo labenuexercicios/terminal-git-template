@@ -1,0 +1,7 @@
+Olá, meu nome é José Henrique Costa Santos, sou natural de João Pessoa/PB, tenho 26 anos e amo tecnologia. 
+Desde pequeno eu sempre fui curioso com tudo que era tecnológico, minha mãe conta que ainda
+com dois aninhos, eu queria ligar o som da casa, a tv e tudo que eu conseguia alcançar, caso
+eu não conseguisse, fazia birra e chorava bastante. Com o tempo eu cresci e nada disso mudou, 
+ainda sou bastante atraído pela tecnologia, com isso eu decidi que me tornaria um programador
+ou dev. Iniciei minha trajetória como aluno na Labenu e sigo me dedicando, até o dia que serei
+um DEV FullStack.
