@@ -1,0 +1,2 @@
+Bruno, Hoje é sua segunda aula de Git. Parabéns por ter chegado ate aqui.
+Não desista, você será um dev maravilhoso.
