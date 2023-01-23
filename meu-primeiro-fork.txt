@@ -1,0 +1,5 @@
+Esse é meu primeiro fork aqui na Labenu!
+
+Nessa primeira aula, estamos aprendendo sobre Terminal e Git, e uma das ferramentas mais importantes que o Git e o GitHub nos dão é copiar um repositório aqui do Github da Labenu para o MEU próprio Github!
+
+Depois que o fork for realizado, devo fazer o clone da cópia (ou seja, lá do MEU Github)! \o/
